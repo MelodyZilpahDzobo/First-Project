@@ -144,8 +144,8 @@ div[role="radiogroup"] label span {
     }
     
     .stButton button {
-        background-color: #3498db;
-        color: blue;
+        background-color: #FF0000;
+        color: red;
         border: none;
         padding: 0.5rem 1.2rem;
         border-radius: 6px;
@@ -158,8 +158,8 @@ div[role="radiogroup"] label span {
         transform: scale(1.03);
     }
     .info-box {
-        background-color: white !important;
-        border-left: 6px solid #3498db;
+        background-color: green !important;
+        border-left: 6px solid #00FF00;
         padding: 18px 22px !important;
         border-radius: 8px !important;
         margin-top: 15px !important;
